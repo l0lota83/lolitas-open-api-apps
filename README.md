@@ -1,1 +1,0 @@
-# lolitas-open-api-apps
